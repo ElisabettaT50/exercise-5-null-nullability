@@ -12,7 +12,7 @@ public class Main {
     }
 
     private static void checkNullability(Integer numerator, Integer denominator) {
-        Integer result = 0;
+        Integer result;
         try {
             result = numerator / denominator;
             System.out.println(result);
