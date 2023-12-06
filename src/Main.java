@@ -1,7 +1,3 @@
-import java.nio.channels.NonReadableChannelException;
-
-import static java.lang.Integer.parseInt;
-
 /*
 Scrivere una funzione che accetti in input un numeratore e un denominatore
 Controlli che il numeratore e il denominatore non siano null
